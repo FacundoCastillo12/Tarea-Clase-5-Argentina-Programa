@@ -33,3 +33,4 @@ BOTON_INGRESO.onclick = function(){
     informacionUsuario.innerText = (`Tu nombre es: ${PRIMER_NOMBRE} ${SEGUNDO_NOMBRE} ${SEGUNDO_APELLIDO} y tu edad es ${EDAD_USUARIO} años`);
     return false
 }
+
