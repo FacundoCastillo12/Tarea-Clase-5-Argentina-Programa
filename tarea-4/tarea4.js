@@ -64,3 +64,4 @@ promedio.textContent += promedioDeNumerosArray(arrayDeNumeros);
 numeroMenor.textContent += numeroMasPequeño(arrayDeNumeros);
 numeroMayor.textContent += numeroMasGrande(arrayDeNumeros);
 numeroMasFrecuente.textContent += numeroMasRepetido(arrayDeNumeros);
+
